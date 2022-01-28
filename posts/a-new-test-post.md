@@ -14,6 +14,8 @@ This is the glourious body of the post!!!
 
 This is the glourious body of the post!!!
 
+![](/static/img/tonka_design_icon.jpg)
+
 This is th***e glourious bod***y of the post!!!
 
 This is the glourious body of the post!!!
